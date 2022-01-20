@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda_AliMacias", "Lambda_AliMacias\Lambda_AliMacias.csproj", "{AF968166-C7A6-4504-A5AE-D768A027E5E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF968166-C7A6-4504-A5AE-D768A027E5E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF968166-C7A6-4504-A5AE-D768A027E5E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF968166-C7A6-4504-A5AE-D768A027E5E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF968166-C7A6-4504-A5AE-D768A027E5E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CB52695-E67E-4522-A7EF-B9E6E231B64C}
+	EndGlobalSection
+EndGlobal

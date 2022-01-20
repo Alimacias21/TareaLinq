@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\Lambda_AliMacias\Lambda_AliMacias\bin\Debug\net5.0\Lambda_AliMacias.exe
+C:\Users\Administrator\source\repos\Lambda_AliMacias\Lambda_AliMacias\bin\Debug\net5.0\Lambda_AliMacias.deps.json
+C:\Users\Administrator\source\repos\Lambda_AliMacias\Lambda_AliMacias\bin\Debug\net5.0\Lambda_AliMacias.runtimeconfig.json
+C:\Users\Administrator\source\repos\Lambda_AliMacias\Lambda_AliMacias\bin\Debug\net5.0\Lambda_AliMacias.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Lambda_AliMacias\Lambda_AliMacias\bin\Debug\net5.0\Lambda_AliMacias.dll
+C:\Users\Administrator\source\repos\Lambda_AliMacias\Lambda_AliMacias\bin\Debug\net5.0\ref\Lambda_AliMacias.dll
+C:\Users\Administrator\source\repos\Lambda_AliMacias\Lambda_AliMacias\bin\Debug\net5.0\Lambda_AliMacias.pdb
+C:\Users\Administrator\source\repos\Lambda_AliMacias\Lambda_AliMacias\obj\Debug\net5.0\Lambda_AliMacias.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Lambda_AliMacias\Lambda_AliMacias\obj\Debug\net5.0\Lambda_AliMacias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Lambda_AliMacias\Lambda_AliMacias\obj\Debug\net5.0\Lambda_AliMacias.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Lambda_AliMacias\Lambda_AliMacias\obj\Debug\net5.0\Lambda_AliMacias.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Lambda_AliMacias\Lambda_AliMacias\obj\Debug\net5.0\Lambda_AliMacias.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lambda_AliMacias\Lambda_AliMacias\obj\Debug\net5.0\Lambda_AliMacias.dll
+C:\Users\Administrator\source\repos\Lambda_AliMacias\Lambda_AliMacias\obj\Debug\net5.0\ref\Lambda_AliMacias.dll
+C:\Users\Administrator\source\repos\Lambda_AliMacias\Lambda_AliMacias\obj\Debug\net5.0\Lambda_AliMacias.pdb
+C:\Users\Administrator\source\repos\Lambda_AliMacias\Lambda_AliMacias\obj\Debug\net5.0\Lambda_AliMacias.genruntimeconfig.cache

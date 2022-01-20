@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lambda_AliMacias/1.0.0": {
+        "runtime": {
+          "Lambda_AliMacias.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lambda_AliMacias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
